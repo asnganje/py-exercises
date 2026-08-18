@@ -42,4 +42,6 @@ def increment():
 s = increment()
 # print(s)
 
-print("akbsajs".count("z"))
+# print("akbsajs".count("z"))
+z = {"a":1}
+print(z.get("b", 0))
